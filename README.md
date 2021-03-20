@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/73862802/111857988-b3da3600-890b-11eb-86dc-cfc6e182bd4a.mp4
+
 # Project 3 - *ParseInstagram*
 
 **Parse-Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
